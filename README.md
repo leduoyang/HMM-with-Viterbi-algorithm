@@ -23,13 +23,13 @@ e.g.
 ## Example
 
 ### initial model
-![alt text](https://github.com/leduoyang/DSP2017_HW/blob/master/hmm_viterbi/img/init_model.png)
+![alt text](https://github.com/leduoyang/HMM-w-Viterbi-algo/edit/master/img/init_model.png)
 
 ### training data
-![alt text](https://github.com/leduoyang/DSP2017_HW/blob/master/hmm_viterbi/img/training_data.png)
+![alt text](https://github.com/leduoyang/HMM-w-Viterbi-algo/edit/master/img/training_data.png)
 
 ### trained model
-![alt text](https://github.com/leduoyang/DSP2017_HW/blob/master/hmm_viterbi/img/trained_model.png)
+![alt text](https://github.com/leduoyang/HMM-w-Viterbi-algo/edit/master/img/trained_model.png)
 
 ### testing result
-![alt text](https://github.com/leduoyang/DSP2017_HW/blob/master/hmm_viterbi/img/testing_result.png)
+![alt text](https://github.com/leduoyang/HMM-w-Viterbi-algo/edit/master/img/testing_result.png)
